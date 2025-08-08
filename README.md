@@ -19,4 +19,4 @@ A long-isolated colony world emerging from a brutal century-long war between the
 - **Lancer Core Book (Pilot Reference):** [https://anyflip.com/ezcyn/wdgm/basic](https://anyflip.com/ezcyn/wdgm/basic)
 - **Lancer Cheat Sheets:** [https://lancer-rules.carrd.co/](https://lancer-rules.carrd.co/)
 - **Mech Building Tool:** [https://compcon.app/](https://compcon.app/)
-- **Mini Building Tool:** [[https://retrogrademinis.com/](https://retrogrademinis.com/)
+- **Mini Building Tool:** [https://retrogrademinis.com/](https://retrogrademinis.com/)
