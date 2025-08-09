@@ -3,7 +3,7 @@
 **DECEASED**  
   
 **Callsign:** `VANGUARD`  
-**Affiliation:** [Ironveil](/Factions/PMC/Ironveil.md)
+**Affiliation:** [Ironveil](/Factions/PMC/Ironveil.md)  
 
 <img src="https://github.com/user-attachments/assets/bd31f229-3034-4265-8d56-58fad081b15b" width=200>  
 
