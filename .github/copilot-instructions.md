@@ -64,6 +64,22 @@
   - **Background**: Former Union scientist.
   ```
 
+- **Session File Example**:
+  ```markdown
+  # "Session Name"
+  ## Act #, Session #
+
+  **Key Characters**: [Character A](/NPCs/CharacterA.md), [Character B](/NPCs/CharacterB.md)
+
+  Session summary text goes here.
+
+  ## Details
+  - **Chronological Subheader 1**:
+    - Info about the session's events relevant to the subheading
+  - **Chronological Subheader 2**:
+    - Info about the session's events relevant to the subheading
+  ```
+
 ## Notes for AI Agents
 - Focus on maintaining narrative consistency and thematic alignment.
 - Prioritize clarity and organization in markdown files.
