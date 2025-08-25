@@ -6,6 +6,12 @@
 The party begins a new chapter with a contract from the UCC, tasking them with overseeing a joint PE/NRC water reservoir pumping station project in the Virelian Wastes. Despite factional tensions, the technical specialists collaborate effectively until Brazen Thorn forces arrive with hostile intentions.
 
 ## Details
+- **Leak Inside Ashfall**:
+  - Party investigated the potential leak within Ashfall, spurred by the fact that Cinderknife somehow had knowledge of their operation to retrieve [ECHO](/NPCs/ECHO.md)
+  - Discover a small data repeater patched into the maintenance port of an automated recon drone
+  - Identify that the repeater has no onboard memory or processing, simply broadcasts any network traffic within Ashfall outward
+  - Maximum range of repeater is only within dozens of miles
+  - Info brought to [Vann Solis](/NPCs/Vann%20Solis.md) who immediately dispatched several techs to search the facility for possible additional repeaters and a recon squad to begin attempting to find the repeater's destination
 - **New Contract Briefing**:
   - Party upgraded to License Level 2 Lancer frames after completing previous mission
   - Spent time training and acclimating to new systems and capabilities

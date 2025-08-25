@@ -84,5 +84,6 @@
 - Focus on maintaining narrative consistency and thematic alignment.
 - Prioritize clarity and organization in markdown files.
 - Use examples as templates for new content.
+- Always consult the future-plans.md file for guidance on upcoming content.
 
 ---

@@ -32,3 +32,7 @@ The party manages to eke out a victory against the Cinderknife warmechs led by T
   - Shocking revelation: contract originated from unnamed [People's Engine](/Factions/The%20People's%20Engine.md) aristocrat
   - Internal sabotage theory raised serious questions about faction politics
   - Party began theorizing potential motives for a PE member to undermine their own operation
+- **Another Successful Contract**:
+  - Party is lauded upon return to Ashfall headquarters
+  - Besting and capturing a rival ace is egg on the face of Cinderknife
+  - Party is authorized for promotion to License Level 3.
