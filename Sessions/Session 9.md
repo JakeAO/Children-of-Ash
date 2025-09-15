@@ -1,4 +1,4 @@
-# "Gala Pt. 1"
+# "Rubbing Elbows Pt. 1"
 ## Act 2, Session 4
 
 **Key Characters:** [Proxima Windfall](/NPCs/Proxima%20Windfall.md), [Nini Shoju](/NPCs/Nini%20Shoju.md)
